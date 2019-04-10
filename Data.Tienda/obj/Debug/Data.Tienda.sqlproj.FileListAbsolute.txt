@@ -16,4 +16,3 @@ C:\ProyectoTienda\Tienda\Data.Tienda\obj\Debug\Model.xml
 C:\ProyectoTienda\Tienda\Data.Tienda\obj\Debug\refactor.xml
 C:\ProyectoTienda\Tienda\Data.Tienda\obj\Debug\postdeploy.sql
 C:\ProyectoTienda\Tienda\Data.Tienda\obj\Debug\predeploy.sql
-C:\ProyectoTienda\Tienda\Data.Tienda\obj\Debug\Data.Tienda.sqlprojAssemblyReference.cache

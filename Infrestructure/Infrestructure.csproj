@@ -52,7 +52,7 @@
     <Compile Include="Class1.cs" />
     <Compile Include="Data\YooinEnterpriseEntities.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="Repository\Clientes.cs" />
+    <Compile Include="Repository\ClientesRepository.cs" />
     <Compile Include="Repository\InventarioRepository.cs" />
     <Compile Include="Repository\VerntasRepository.cs" />
   </ItemGroup>

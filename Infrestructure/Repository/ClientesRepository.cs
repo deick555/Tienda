@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 
 namespace Infrestructure.Repository
 {
-   public class Clientes
+   public class ClientesRepository
     {
         private YooinEnterpriseEntities conn;
 
