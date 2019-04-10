@@ -20,3 +20,4 @@ C:\ProyectoTienda\Tienda\DTO\bin\Debug\EntityFramework.SqlServer.dll
 C:\ProyectoTienda\Tienda\DTO\bin\Debug\EntityFramework.xml
 C:\ProyectoTienda\Tienda\DTO\bin\Debug\EntityFramework.SqlServer.xml
 C:\ProyectoTienda\Tienda\DTO\obj\Debug\DTO.csproj.CopyComplete
+C:\ProyectoTienda\Tienda\DTO\obj\Debug\DTO.csprojAssemblyReference.cache

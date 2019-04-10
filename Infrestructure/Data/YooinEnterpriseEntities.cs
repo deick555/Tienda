@@ -17,6 +17,7 @@ namespace Infrestructure.Data
 
         public virtual DbSet<InventarioDTO> Inventario { get; set; }
         public virtual DbSet<VentasDTO> Ventas { get; set; }
+        public virtual DbSet<ClientesDTO> Clientes { get; set; }
 
 
     }
