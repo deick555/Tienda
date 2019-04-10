@@ -8,5 +8,6 @@ namespace Infrestructure.Repository
 {
    public class Clientes
     {
+
     }
 }
